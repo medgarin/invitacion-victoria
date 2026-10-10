@@ -1,0 +1,13 @@
+{
+  "name": "invitacion-victoria",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "python3 -m http.server 8765"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
